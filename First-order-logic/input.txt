@@ -1,0 +1,6 @@
+5
+f(x)&plus(3) => f(x+3)
+f(x)&plus(4) => f(x+4)
+plus(3)
+plus(4)
+f(1)
